@@ -1,10 +1,6 @@
 .bgimg {
-    background-image: url("assets/images/circles-light.png");
-    position: relative;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     margin: 0;
+    padding: 0;
 }
 
 #navigationbar {
@@ -143,10 +139,12 @@ p {
 .footertag {
     clear: both;
     position: sticky;
-    top: 20px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
     left: 0;
     right: 0;
-    height: 20px;
 }
 
 #footline {
