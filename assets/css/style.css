@@ -1,5 +1,5 @@
 .bgimg {
-    background-image: url('assets/images/circles-light.png');
+    background-image: url("assets/images/circles-light.png");
     position: relative;
     background-position: center;
     background-repeat: no-repeat;
